@@ -1,0 +1,14 @@
+{
+  "name": "webpack-serve-spa-plugin",
+  "version": "1.1.1",
+  "main": "index.js",
+  "license": "ISC",
+  "description": "Wraps koa-connect, compression and connect-history-api-fallback for spa-ifying webpack-serve",
+  "dependencies": {
+    "compression": "^1.7.3",
+    "connect-history-api-fallback": "^1.5.0",
+    "koa-connect": "^2.0.1"
+  },
+  "author": "8eecf0d2",
+  "repository": "https://github.com/8eecf0d2/webpack-serve-spa-plugin.git"
+}
